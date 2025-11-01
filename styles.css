@@ -4,6 +4,15 @@ border-color: MediumVioletRed
 color:  #ffffff;
    margin-bottom: 32 px
 }
+figure img { 
+  max-width: 100%
+  height: auto;
+  margin-bottom: 12 px 
+}
+img {
+  max-width: 100%
+  height: auto;
+}
   figure.section-image {
 float: right;
 margin left: 20px;
