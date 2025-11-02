@@ -1,14 +1,12 @@
 figure.main-image {
 background: PaleVioletRed;
-border-color: MediumVioletRed
+border-color: MediumVioletRed;
 color:  #ffffff;
-   margin-bottom: 32px
+   margin-bottom: 32px;
 
    @media all and (min-width: 768px) {
 
-   }
-
-figure img { 
+   figure img { 
   max-width: 100%
   height: auto;
   margin-bottom: 12 px 
