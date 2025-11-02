@@ -7,7 +7,7 @@ color:  #ffffff;
    @media all and (min-width: 768px) {
 
    figure img { 
-  max-width: 100%
+  max-width: 100%;
   height: auto;
   margin-bottom: 12px;
 }
@@ -15,11 +15,11 @@ color:  #ffffff;
   figure.section-image {
 float: right;
 margin-left: 20px;
-margin-bottom 32px;
-max width: 320px;
+margin-bottom:32px;
+max-width: width: 320px;
   }
 figure.section-image.odd{
-  float right;
+  float: right;
   margin-left: 20px;
 }
 figure.section-image.even{
@@ -30,7 +30,7 @@ figure.section-image.even{
 p img {
 float: right;
   max-width: 60%
-  margin-left:20px
+  margin-left:20px;
   margin-bottom: 32px
 
   }
@@ -46,7 +46,6 @@ float: right;
 @media all and (min-width 376px) {
 nav ul {
 
-}
 }
 
 
