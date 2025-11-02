@@ -3,7 +3,11 @@ background: PaleVioletRed
 border-color: MediumVioletRed
 color:  #ffffff;
    margin-bottom: 32 px
-}
+
+   @media all and (min-width: 768px) {
+
+   }
+
 figure img { 
   max-width: 100%
   height: auto;
