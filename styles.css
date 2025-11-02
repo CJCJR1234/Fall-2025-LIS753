@@ -3,8 +3,9 @@ background: PaleVioletRed;
 border-color: MediumVioletRed;
 color:  #ffffff;
    margin-bottom: 32px;
+}
 
-   @media all and (min-width: 768px) {
+   @media all and (min-width: 768px) 
 
    figure img { 
   max-width: 100%;
@@ -24,14 +25,14 @@ figure.section-image.odd{
 }
 figure.section-image.even{
   float: left;
-  margin-right: 20px
+  margin-right: 20px;
 }
 
 p img {
 float: right;
-  max-width: 60%
+  max-width: 60%;
   margin-left:20px;
-  margin-bottom: 32px
+  margin-bottom: 32px;
 
   }
 @media all and (min-width: 376px)
