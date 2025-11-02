@@ -9,17 +9,14 @@ color:  #ffffff;
    figure img { 
   max-width: 100%
   height: auto;
-  margin-bottom: 12 px 
+  margin-bottom: 12px;
 }
-img {
-  max-width: 100%
-  height: auto;
-}
+
   figure.section-image {
 float: right;
-margin left: 20px;
+margin-left: 20px;
 margin-bottom 32px;
-max width: 320 px;
+max width: 320px;
   }
 figure.section-image.odd{
   float right;
@@ -33,15 +30,15 @@ figure.section-image.even{
 p img {
 float: right;
   max-width: 60%
-  margin-left: 20px
+  margin-left:20px
   margin-bottom: 32px
 
   }
-@media all and (min-width 376px)
+@media all and (min-width: 376px)
   nav ul{
     display: flex;
     justify-content: center;
-    gap: 30 px;
+    gap: 30px;
     list-style: none;
     padding-left:0
 }
