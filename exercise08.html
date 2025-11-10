@@ -2,14 +2,14 @@
 <html lang="en-US">
 <head>
   <title>My "Hello World Page"</title>
-  <link rel="stylesheet" href="styles.css"
+  <link rel="stylesheet" href="styles.css"/>
 </head>
 <body>
   <div class="container">
-  <button onclick="darkModel()"></button>
+  <button onclick="darkMode()"></button>
  <div id="message" Welcome to my site.>
-<buttononclick='document.getElementById('message').classList.add('dismissed')
-  display='none';></buttononclick>>Dismiss</button></div>
+<button onclick='document.getElementById('message').classList.add('dismissed')"
+  display='none';></button onclick>>Dismiss</button></div>
  <h1 id="page-title">hello, World!</h1>
  <img src="https://placecats.com/300/200"/>
 <p>The sky is blue. I will get outdoors and enjoy the day. 
@@ -18,6 +18,11 @@
   <p> Traveling is fun and it gives me time to discover new adventures. 
    In 2024, I went to Myrtle Beach, South Carolina. I had a great time walking along the beach.</p>
   </div>
+  <script>
+  function darkMode () {
+    document.body.classlist.toggle('dark-mode');
+  }
+  </script>
   </body>
 </htm>
 
