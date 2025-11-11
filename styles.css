@@ -58,18 +58,16 @@ p {
 body.dark-mode {
   background: #010101;
   color: #ffffff;
-  
-}
+  }
+body.dark-mode { background: #010101;color:#ffffff;}
 opacity: 1;
 transition: opacity .2s ease;  
 }
-#message.dismissed {
- opacity: 0;
-  height: 0;
-   }
-#message button {
-  float: right;
-}
+#message.dismissed { opacity: 0 height: 0;}
+#message button { float: right;}
+
+
+
 
 
 
