@@ -2,7 +2,7 @@ figure.main-image {
 background: PaleVioletRed;
 border-color: MediumVioletRed;
 color:  #ffffff;
-   margin-bottom: 32px;
+   margin-bottom: 16px;
 }
 
    @media all and (min-width: 768px) 
