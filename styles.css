@@ -4,8 +4,7 @@ border-color: MediumVioletRed;
 color:  #ffffff;
    margin-bottom: 32px;
 }
-
-   @media all and (min-width: 768px) 
+@media all and (min-width: 768px) 
 
    figure img { 
   max-width: 100%;
