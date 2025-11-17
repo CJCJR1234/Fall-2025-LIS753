@@ -15,11 +15,6 @@ float: right;
 margin-left: 20px;
 margin-bottom:32px;
 max-width:320px;
-.border-section {
-border: 1px solid #db7093;
-margin-bottom: 32px;
-padding:1px;
-}
 
 figure.section-image.odd{
   float: right;
