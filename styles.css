@@ -1,7 +1,8 @@
 figure.main-image {
 background: #ffffff;
-border-color: #db7093;
-   margin-bottom: 32px;
+margin-bottom: 32px;
+border-style:solid;
+border:  1px solid #db7093; 
 }
 @media all and (min-width: 768px) 
 
