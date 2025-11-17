@@ -50,9 +50,6 @@ h1 {
   color: blue;
   font-family: verdana;
 }
-p {
-  background: #dbffdf;
-}
 body.dark-mode {
   background: #010101;
   color: #ffffff;
