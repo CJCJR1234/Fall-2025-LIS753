@@ -7,7 +7,8 @@
  </head>
  <body>
   <header>
-  <h1 id="site-title">Hello, World!</h1>
+  <h1 id="site-Curtis J. Crawford Jr.">Resume-Portfolio</h1>
+  <p>Library Professional|North Aurora, IL 60542</p>
   <ul>
     <li><a href="index.html" alt="go to the homepage">Home</a></li>
     <li><a href="exercise02.html" alt="go to exercise 2">Exercise 2</a></li>
