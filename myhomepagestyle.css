@@ -1,0 +1,15 @@
+{body style="background-color:light seagreen;"
+}
+figure.section-image {
+float: right;
+margin-left: 20px;
+margin-bottom: 32px;
+max-width: 100px;
+width: 100%;
+padding: 10px;
+}
+#my-footer {
+color: white;
+}
+#my-footer-image {width: 300px;height: 200px;}
+ 
